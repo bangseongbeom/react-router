@@ -31,7 +31,7 @@
   "dependencies": {
     "@mjackson/node-fetch-server": "0.6.1",
     "@react-router/serve": "workspace:*",
-    "compression": "^1.8.1",
+    "compression": "^1.8.2",
     "express": "^4.21.2",
     "react": "catalog:react-canary",
     "react-dom": "catalog:react-canary",
